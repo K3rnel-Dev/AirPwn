@@ -3,7 +3,7 @@
 ![Modife-Dev-Name](https://img.shields.io/badge/ModifyRepoDev-K3rnel-yellow)
 
 <div align="center">
-<img src="https://github.com/K3rnel-Dev/AirPwn/blob/main/screens/screen.png" width='500px' height='700px' alt="Mirai">
+<img src="https://github.com/K3rnel-Dev/AirPwn/blob/main/screens/screened.png" width='500px' height='700px' alt="Mirai">
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=320&width=500&lines=Air+Pwn;Wifi+BruteForcer;Os:+Windows" alt="">
 <hr>
