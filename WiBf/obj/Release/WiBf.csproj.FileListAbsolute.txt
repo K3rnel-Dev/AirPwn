@@ -1,0 +1,14 @@
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\bin\Release\AirPwn.exe.config
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\bin\Release\AirPwn.exe
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\bin\Release\AirPwn.pdb
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\bin\Release\ManagedWifi.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\bin\Release\SimpleWifi.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\obj\Release\WiBf.csproj.AssemblyReference.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\obj\Release\WiBf.csproj.SuggestedBindingRedirects.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\obj\Release\WiBf.Form1.resources
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\obj\Release\WiBf.Properties.Resources.resources
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\obj\Release\WiBf.csproj.GenerateResource.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\obj\Release\WiBf.csproj.CoreCompileInputs.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\obj\Release\WiBf.csproj.CopyComplete
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\obj\Release\AirPwn.exe
+C:\Users\MR-ROBOT\Desktop\BugBounty\AirPwn\WiBf\obj\Release\AirPwn.pdb
